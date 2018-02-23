@@ -1,5 +1,5 @@
 # Ferramentas de controle de versão:
 * Mercurial
-AULA3 
+* aULA 3
 * Subversion
 * CVS
